@@ -20,7 +20,7 @@ You will work to bolster data science skills within the NIMH IRP by teaching cou
 
 ### QUANTIFY
 
-There is no use building tools for open science if no one uses them. Part of the job of the DSST is to measure data sharing and open science practices within the NIMH IRP and progress toward their adoption. This will include bibliometrics for scientific publications from the NIMH IRP and other measures of data sharing and secondary data utilization. You will provide crucial systems level support to the team in gauging this progress.
+There is no use building tools for open science if no one uses them. Part of the job of the DSST is to measure data sharing and open science practices within the NIMH IRP and progress toward their adoption. This will include bibliometrics for scientific publications from the NIMH IRP and other measures of data sharing and secondary data utilization. You'll work with DSST staff and external collaborators (e.g. [Impactstory](https://impactstory.org/) to make these metrics publicly available.
 
 ## Who you are…
 
